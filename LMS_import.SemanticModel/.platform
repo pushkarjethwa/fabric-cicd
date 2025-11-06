@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "LMS_import"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "471b5b77-2dba-aa16-4daf-43a3709c822d"
+  }
+}
